@@ -18,3 +18,6 @@ override.tf.json
 ингорированин CLI конфигурационных файлов
 .terraformrc
 terraform.rc
+
+
+Добавил новую строчку
